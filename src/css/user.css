@@ -1,0 +1,9 @@
+body{ 
+	font: 14px sans-serif;
+ }
+ 
+.form-wrapper{ 
+	margin-left: auto;
+    width: 25em;
+    margin-right: auto; 
+}
